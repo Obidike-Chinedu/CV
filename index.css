@@ -1,0 +1,83 @@
+body{
+    margin: 70px;
+    background-color: rgb(246, 255, 255);
+    background-size: auto;
+    padding-right: 50px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: blue;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+
+h4{
+    color: rgb(3, 87, 3);
+}
+
+.contact-details{
+    text-align: center;
+}
+
+a{
+    color: blue;
+}
+
+a:hover{
+    color: rgb(7, 18, 70);
+}
+
+.summary, .experience, .leadership, .certification, .education, .skills{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+p{
+    padding-top: 10px;
+}
+
+#exp1{
+    padding-left: 65%;
+}
+
+#exp2{
+    padding-left: 66.5%;
+}
+
+#exp3{
+    padding-left: 51%;
+}
+
+#exp4{
+    padding-left: 36.5%;
+}
+
+.lead{
+    padding-left: 16.7%;
+}
+
+#cert1{
+    padding-left: 52%;
+}
+
+#cert2{
+    padding-left: 42.4%;
+}
+
+#cert3{
+    padding-left: 48.1%;
+}
+
+#cert4{
+    padding-left: 38%;
+}
+
+#cert5{
+    padding-left: 22%;
+}
+
+#edu{
+    padding-left: 75%;
+}
